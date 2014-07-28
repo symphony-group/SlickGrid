@@ -3372,6 +3372,7 @@ if (typeof Slick === "undefined") {
       "scrollRowIntoView": scrollRowIntoView,
       "scrollRowToTop": scrollRowToTop,
       "scrollCellIntoView": scrollCellIntoView,
+      "scrollTo": scrollTo,
       "getCanvasNode": getCanvasNode,
       "focus": setFocus,
 
